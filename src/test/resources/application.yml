@@ -1,0 +1,3 @@
+event-hubs:
+  producer:
+    event-hub-name: foo
